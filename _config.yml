@@ -1,6 +1,2 @@
-theme: jekyll-theme-cayman
-
-
----
-title:      title  # 文章的标题
---
+theme: jekyll-theme-cayma
+title: title  # 文章的标题
